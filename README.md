@@ -1,4 +1,3 @@
-[![freedomsale]](https://github.com/kavyashree6939/Bestomart-Blogger/blob/main/20240812_1130_Freedom_Sale.jpg)
 #Celebrate Independence Day with BESTOMART's Biggest Freedom  Sale !
 
 Introduction:
@@ -59,3 +58,5 @@ Conclusion:
 At BESTOMART, we believe that Independence Day is a time to celebrate freedom, family, and fun. Don’t miss this opportunity to enjoy incredible deals. Whether you’re shopping for yourself or picking out gifts for others, our Freedom Sale is the perfect opportunity to find great products at great prices.
 
 From all of us at BESTOMART, we wish you a fantastic Independence Day filled with joy, freedom, and exceptional savings. Happy shopping!
+
+![freedomsale](https://github.com/kavyashree6939/Bestomart-Blogger/blob/main/20240812_1130_Freedom_Sale.jpg)
